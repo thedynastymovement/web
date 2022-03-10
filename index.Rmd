@@ -1,0 +1,11 @@
+---
+title: "The Dynasty Movement"
+description: |
+  A dynasty fantasy football discord.
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
